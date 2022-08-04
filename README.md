@@ -4,4 +4,4 @@
 <br>
 DRnet: A Depression Recognition Model of Dynamic Attention Based on Facial Features<BR>
 <br>
-Contact details: yejiayu97@outlook.com
+Contact details: yejiayu97@outlook.com, 10431210796@stu.qlu.edu.cn

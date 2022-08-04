@@ -6,7 +6,6 @@ DRnet: A Depression Recognition Model of Dynamic Attention Based on Facial Featu
 <br>
 Contact details: yejiayu97@outlook.com, yixinyu99@outlook.com
 <br>
-  
 # Usage
 Please install PyTorch 1.7.0：
 <br>
